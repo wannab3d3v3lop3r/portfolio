@@ -1,7 +1,11 @@
 @media only screen and (max-width: 1024px){
-    .projects, .work {
+    .projects, .work, .row {
         flex-direction: column;
         align-items: center;
+    }
+
+    .link-seperator {
+        margin-top: 10px;
     }
 
     .section-title {
