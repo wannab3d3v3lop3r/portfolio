@@ -44,19 +44,6 @@ p.divider {
     font-weight: 300;
 }
 
-/* .col {
-    position: relative;
-    float: left;
-    width: 100%;
-    min-height: 1px;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-.col-6 {
-    width: 50%
-} */
-
 .row {
     display: flex;
     justify-content: space-between;
@@ -97,7 +84,7 @@ p.divider {
 .intro, .projects, .work {
     display: flex;
     height: auto;
-    padding: 0 2% 0 2%;
+    padding: 0 10% 0 10%;
 }
 
 .projects, .work {
@@ -168,7 +155,7 @@ p.divider {
     text-transform: uppercase;
     color: #fff;
     margin: 0;
-    padding: 2% 0 15px 3%;
+    padding: 4% 0 15px 10.8%;
 }
 
 .btn {
