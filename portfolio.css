@@ -107,7 +107,7 @@ p.divider {
 .intro {
     justify-content: center;
     align-items: center;
-    padding: 200px 0 200px 0;
+    /* padding: 200px 0 200px 0; */
 }
 
 .intro-content {
