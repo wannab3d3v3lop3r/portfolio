@@ -123,6 +123,16 @@ p.divider {
     line-height: 24px;
 }
 
+.hero-text-style-sub {
+    font-family: titling-gothic-fb-extended,sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+
 .item {
     width: 32%;
     height: auto;

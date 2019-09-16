@@ -26,6 +26,12 @@
 @media only screen and (max-width: 600px){
     .hero-text-style {
         font-size: 18px;
+        line-height: 15px;
+    }
+    
+    .hero-text-style-sub {
+        font-size: 10px;
+        line-height: 15px;
     }
     
     .item {
@@ -38,6 +44,12 @@
     .hero-text-style {
         font-size: 12px;
     }
+
+        
+    .hero-text-style-sub {
+        font-size: 8px;
+    }
+
     .footer-container {
         padding: 0 10px 0 10px;
     }
