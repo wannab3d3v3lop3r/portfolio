@@ -211,11 +211,6 @@ p.divider {
     color: #fff;
 }
 
-
-.content-description{
-    height: 180px;
-}
-
 .content-container li::before{
     content: '- '
 }
