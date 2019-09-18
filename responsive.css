@@ -4,6 +4,10 @@
         align-items: center;
     }
 
+    .content-description{
+        height: auto;
+    }
+
     .link-seperator {
         margin-top: 10px;
     }
