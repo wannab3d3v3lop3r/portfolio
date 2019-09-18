@@ -175,6 +175,8 @@ p.divider {
     border: 2px solid #e7e7e7;
     transition-duration: 0.4s;
     width: 40%;
+    display: inline-block;
+    text-decoration: none;
 }
 
 .btn:hover {
@@ -195,10 +197,23 @@ p.divider {
     text-align:center;
 }
 
+.stack-title {
+    font-family: titling-gothic-fb-extended,sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 0 0 0 9%;
+}
+
 .content-description, .content-container{
     padding: 0 9% 0 9%;
     font-family: titling-gothic-fb-extended,sans-serif;
     color: #fff;
+}
+
+
+.content-description{
+    height: 180px;
 }
 
 .content-container li::before{
@@ -227,4 +242,8 @@ p.divider {
     -ms-flex-pack: center;
     justify-content: center;
     align-items: center;
+}
+
+.reserved {
+    color: #fff;
 }
